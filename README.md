@@ -25,3 +25,5 @@ Para o estilo da página (opcional, você pode adicionar estilos conforme prefer
 
 - JavaScript:
 Para a lógica de adicionar amigos, atualize a lista e realize o sorteio.
+
+
